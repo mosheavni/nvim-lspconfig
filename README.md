@@ -179,3 +179,4 @@ a new configuration for it would be appreciated. You can follow these steps:
 3. Ask questions on our [Discourse](https://neovim.discourse.group/c/7-category/7) or in the [Neovim Matrix room](https://app.element.io/#/room/#neovim:matrix.org).
 
 You can also help out by testing [PRs with the `needs-testing`](https://github.com/neovim/nvim-lspconfig/issues?q=is%3Apr+is%3Aopen+label%3Aneeds-testing) label that affect language servers you use regularly.
+
